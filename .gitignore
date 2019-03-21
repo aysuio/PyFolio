@@ -5,3 +5,4 @@ wiki
 *.pyc
 __pycache__/*
 CACHE/*
+env/*
